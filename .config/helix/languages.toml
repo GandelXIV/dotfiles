@@ -18,3 +18,9 @@ file-types = [
   # from https://github.com/helix-editor/helix/blob/master/languages.toml
   "sh", "bash", "zsh", ".bash_login", ".bash_logout", ".bash_profile", ".bashrc", ".profile", ".zshenv", "zshenv", ".zlogin", "zlogin", ".zlogout", "zlogout", ".zprofile", "zprofile", ".zshrc", "zshrc", ".zimrc", "APKBUILD", "PKGBUILD", "eclass", "ebuild", "bazelrc", ".bash_aliases", "Renviron", ".Renviron",
 ]
+
+[[language]]
+name = "jinja"
+file-types = [
+  "html", "jinja", "j2", "jinja2", "tera"
+]
