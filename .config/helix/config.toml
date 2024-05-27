@@ -1,6 +1,7 @@
 # theme = "tokyonight_storm"
 # theme = "monokai"
-theme = "github_dark"
+# theme = "github_dark"
+theme = "catppuccin_latte"
 
 [editor]
 line-number = "relative"
